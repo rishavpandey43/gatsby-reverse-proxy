@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Starter Blog for Reverse Proxy`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rishav Pandey`,
+      summary: `Software Developer by Profession, and an Explorer by passion`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Dummy blog website to demonstrate reverse-proxy`,
+
     social: {
-      twitter: `kylemathews`,
+      twitter: `rishavpandey43`,
     },
   },
   plugins: [
@@ -112,7 +112,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Starter Blog for Reverse Proxy`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
